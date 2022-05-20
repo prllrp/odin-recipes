@@ -1,1 +1,2 @@
 # odin-recipes
+This is a basic HTML project created as part of The Odin Project Fundamentals course. It's my second time working on projects in HTML, the first being on freecodecamp.org a few months ago. So far I think I prefer TOP as I'm working on code directly on my laptop rather than in a browser, but I'm glad I did FCC first to get my bearings. Using Linux and Git for this project has made me feel like I have truly started my journey to becoming a web developer. 
